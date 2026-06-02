@@ -23,7 +23,7 @@ cd Downloads
 chmod 400 ec2-assignment-key.pem
 ssh -i ec2-assignment-key.pem ubuntu@32.196.145.117
 
-## 4. *Nginx Set*
+## 4. **Nginx Setup**
 updated apt
 installed Nginx
 enabled Nginx
